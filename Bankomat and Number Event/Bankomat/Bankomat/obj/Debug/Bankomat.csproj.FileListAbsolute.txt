@@ -1,0 +1,7 @@
+C:\Users\ilkin\Desktop\C#\Bankomat and Number Event\Bankomat\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\ilkin\Desktop\C#\Bankomat and Number Event\Bankomat\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\ilkin\Desktop\C#\Bankomat and Number Event\Bankomat\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\ilkin\Desktop\C#\Bankomat and Number Event\Bankomat\Bankomat\obj\Debug\Bankomat.csprojAssemblyReference.cache
+C:\Users\ilkin\Desktop\C#\Bankomat and Number Event\Bankomat\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\Desktop\C#\Bankomat and Number Event\Bankomat\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\ilkin\Desktop\C#\Bankomat and Number Event\Bankomat\Bankomat\obj\Debug\Bankomat.pdb
